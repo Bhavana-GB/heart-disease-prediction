@@ -77,7 +77,7 @@ input_dict = {
     'sex': sex_val,
     'cp': cp,
     'trestbps': trestbps,
-    'chol': chol,
+    # 'chol': chol,
     'fbs': fbs_val,
     'restecg': restecg,
     'thalach': thalach,
